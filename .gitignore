@@ -1,8 +1,10 @@
-.ipynb_checkpoints/
-.sia/
 africa/
-europe/
-usa/
-china/
 world/
+wurope/
+china/
+usa/
 samerica/
+asia/
+*.png
+.ipynb_checkpoints/
+.directory
