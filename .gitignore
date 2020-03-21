@@ -1,1 +1,8 @@
-.ipynb_checkpoints/*
+.ipynb_checkpoints/
+./asia/
+./africa/
+./europe/
+./usa/
+./china/
+./world/
+./samerica/
